@@ -29,7 +29,8 @@ This project implements an advanced CAPTCHA-solving system that combines Convolu
 
 ## Usage:
 1. Clone the repository.
-2. Prepare the dataset or use the provided synthetic CAPTCHA dataset.
+2. use the provided synthetic CAPTCHA datase download the dataset from the given link
+https://www.kaggle.com/datasets/fournierp/captcha-version-2-images.
 3. Train the CNN model with the optimized hyperparameters.
 4. Evaluate the model and visualize results with sample predictions and performance metrics.
 
